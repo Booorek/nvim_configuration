@@ -4,4 +4,7 @@
 
 1) Installing formatters 
 
-:MasonInstall {stylua,clang-format,black,isort}
+:MasonInstall {stylua,clang-format,black,isort...}
+
+2)
+:TSInstall {c,cpp,lua,bash,python...}
